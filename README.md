@@ -1,5 +1,14 @@
 # WordPress.SandBox
 
+Environnement d'intégration WordPress. Persiste la base de données et les plugins dans les répertoires 'db-wordpress' et 'php-wordpress' dans le répertoire courant...
+
+```
+git clone 'https://github.com/venantvr/WordPress.SandBox.git
+cd WordPress.SandBox
+chmod +x wordpress-sandbox.sh
+./wordpress-sandbox.sh 
+
+```
 
 ```
 renald@venantvr:~/wordpress-sandbox$ chmod +x wordpress-sandbox.sh 
