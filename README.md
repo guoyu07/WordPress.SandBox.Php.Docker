@@ -1,5 +1,7 @@
 # WordPress.SandBox
 
+
+```
 renald@venantvr:~/wordpress-sandbox$ chmod +x wordpress-sandbox.sh 
 renald@venantvr:~/wordpress-sandbox$ ./wordpress-sandbox.sh 
 Creating network "wordpresssandbox_default" with the default driver
@@ -205,5 +207,7 @@ wordpress_1  | AH00558: apache2: Could not reliably determine the server's fully
 wordpress_1  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
 wordpress_1  | [Mon Sep 11 12:56:53.884447 2017] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.10 (Debian) PHP/5.6.31 configured -- resuming normal operations
 wordpress_1  | [Mon Sep 11 12:56:53.884488 2017] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+
+```
 
 ![picture](wordpress-sandbox.png)
