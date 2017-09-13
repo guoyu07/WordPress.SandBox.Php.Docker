@@ -3,8 +3,8 @@
 Environnement d'intégration WordPress. Persiste la base de données et les plugins dans les répertoires 'db-wordpress' et 'php-wordpress' dans le répertoire courant...
 
 ```
-git clone 'https://github.com/venantvr/WordPress.SandBox.git
-cd WordPress.SandBox
+git clone 'https://github.com/venantvr/WordPress.SandBox.Php.git
+cd WordPress.SandBox.Php
 chmod +x wordpress-sandbox.sh
 ./wordpress-sandbox.sh 
 
